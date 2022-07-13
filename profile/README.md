@@ -1,4 +1,4 @@
-<img src="../logo.png" width="150px" height="150px">
+<img src="https://github.com/loak-studio/.github/raw/main/logo.png" width="150px" height="150px">
 
 |  Hexa |  Color  |
 |---|---|
